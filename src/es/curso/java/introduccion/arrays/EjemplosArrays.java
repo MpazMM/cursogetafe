@@ -6,9 +6,7 @@ public class EjemplosArrays {
 		
 		
 		
-		
-		
-	//	String nombre = "Raúl";
+	//	String nombre = "Raúl"; 
 		
 		//Siempre que tengamos los dos corchetes es un arrays
 		// También se puede poner así String [] nombres =
