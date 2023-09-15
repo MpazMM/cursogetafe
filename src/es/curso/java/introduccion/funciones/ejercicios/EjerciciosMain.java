@@ -18,16 +18,6 @@ public static void main (String [] args){
 			System.out.println("Indica la tabla de multiplicar");
 			int numMultiplicar = scan.nextInt();
 			TablaMultiplicar.pintaTablaMultiplicar(numMultiplicar);
-		
-		//Array Strings
-			System.out.println("Introduce una palabra");
-				String texto = scan.nextLine();
-			System.out.println("Introduce el numero de repeticiones");
-				int numRepeticiones = scan.nextInt();
-
-		
-		
-		
 			
 	}
 

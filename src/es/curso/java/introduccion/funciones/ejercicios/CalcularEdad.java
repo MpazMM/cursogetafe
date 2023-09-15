@@ -13,12 +13,13 @@ public class CalcularEdad {
 			int edad= calculoEdad(anio);
 			System.out.println("Tu edad es " + edad);
 			
+			
 	}
 	
 	static int calculoEdad (String anioNacimiento) {
-		
+		final int anioActual = 2023;
 		int anioNacimientoInt = Integer.parseInt(anioNacimiento);
-		int resultado = 2023 - anioNacimientoInt;
+		int resultado = anioActual - anioNacimientoInt;
 		return resultado;
 		
 	}
