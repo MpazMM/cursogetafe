@@ -2,7 +2,7 @@ package es.curso.java.introduccion.utils;
 
 import java.util.Scanner;
 
-public class PedirDatos {
+public class Menu {
 	
 	
 	public static void main (String [] args){
