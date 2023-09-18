@@ -191,6 +191,7 @@ public class ColegioMenuFunciones {
 		}
 	}
 	
+	//Método para los bucles for
 	public static void bucleArray (String bucleAlumnos[][]){
 		for (int i=0;i<colegio.length;i++) {
 			for(int j=0;j<colegio[i].length;j++) {
